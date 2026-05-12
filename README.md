@@ -20,7 +20,7 @@ tareas a subir modulo 2.6
 **Lenguajes & Frameworks**
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
 
 **Bases de Datos & Herramientas**
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
@@ -30,16 +30,11 @@ tareas a subir modulo 2.6
 
 ---
 
-### 📊 Actividad en GitHub
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=vincere&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=vincere" />
-</p>
-
----
 
 ### 📬 Contacto & Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINK_AQUI])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_CORREO_AQUI])
+
+---![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_CORREO_AQUI])
 
 ---
